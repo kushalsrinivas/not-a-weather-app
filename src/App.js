@@ -21,7 +21,7 @@ const App= ()=>{
     
   
     const api ={
-        key:"47a6efe6b6d45016124948772cdfda69",
+        key:"",
         base:"https://api.openweathermap.org/data/2.5/"
     }
 
